@@ -9,7 +9,7 @@ Project
 - Spring Boot 3.1.2
 - Mustache
 
-Mustache가 안되는 분들
+Mustache가 안되는 현상 해결
 -------------------------------------------------
 - shift 2번 -> plugins 검색 -> mustache 검색 -(없을 시)-> 해당 화면 12시 marketplace에서 mustache install 후 확인 버튼 눌러야 합니다
 - 인텔리제이 재실행 -> mustache plugins에 있나 확인
